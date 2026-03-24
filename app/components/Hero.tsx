@@ -7,10 +7,10 @@ export default function Hero() {
       <div className="max-w-6xl mx-auto grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
         <div className="space-y-8">
           <h1 className="text-4xl lg:text-5xl font-bold text-dark-slate leading-tight">
-            Catch duplicate invoices before money goes out.
+            Stop duplicate payments before they turn into messy refunds.
           </h1>
           <p className="text-lg text-muted-gray leading-relaxed">
-            Upload your invoice data, review flagged duplicates, and prevent costly mistakes in seconds.
+            Upload your invoices, review flagged duplicates, and prevent costly overpayments before money goes out.
           </p>
           <div className="flex flex-col sm:flex-row gap-4">
             <Link href="/tool" className="bg-accent-blue text-white px-6 py-3 rounded-md hover:bg-blue-700 transition-colors font-medium text-lg text-center">
